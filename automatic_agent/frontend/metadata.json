@@ -1,0 +1,5 @@
+{
+  "name": "Lumina AI Chat",
+  "description": "A modern, aesthetically pleasing chat interface powered by Gemini, featuring real-time streaming, markdown support, and a glassmorphism design.",
+  "requestFramePermissions": []
+}
